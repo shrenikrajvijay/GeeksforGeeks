@@ -4,13 +4,13 @@
  * and open the template in the editor.
  */
 
-package geeksforgeeks;
+package pairForSum;
 
 /**
  *
  * @author vijayshrenikraj
  */
-public class GeeksForGeeks {
+public class PairForSum {
 
     /**
      * @param args the command line arguments
